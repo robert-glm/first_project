@@ -1,2 +1,3 @@
 *.log
 logs/*
+!crit_log.log
